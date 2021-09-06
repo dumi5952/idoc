@@ -1,0 +1,13 @@
+/Volumes/My Passport/Projects/idoc-iterminal/docs-web-common/src/main/java/com/sismics/util/filter/SecurityFilter.java
+/Volumes/My Passport/Projects/idoc-iterminal/docs-web-common/src/main/java/com/sismics/rest/exception/ClientException.java
+/Volumes/My Passport/Projects/idoc-iterminal/docs-web-common/src/main/java/com/sismics/rest/util/AclUtil.java
+/Volumes/My Passport/Projects/idoc-iterminal/docs-web-common/src/main/java/com/sismics/util/filter/TokenBasedSecurityFilter.java
+/Volumes/My Passport/Projects/idoc-iterminal/docs-web-common/src/main/java/com/sismics/util/filter/CorsFilter.java
+/Volumes/My Passport/Projects/idoc-iterminal/docs-web-common/src/main/java/com/sismics/security/IPrincipal.java
+/Volumes/My Passport/Projects/idoc-iterminal/docs-web-common/src/main/java/com/sismics/security/AnonymousPrincipal.java
+/Volumes/My Passport/Projects/idoc-iterminal/docs-web-common/src/main/java/com/sismics/rest/exception/ServerException.java
+/Volumes/My Passport/Projects/idoc-iterminal/docs-web-common/src/main/java/com/sismics/rest/util/ValidationUtil.java
+/Volumes/My Passport/Projects/idoc-iterminal/docs-web-common/src/main/java/com/sismics/security/UserPrincipal.java
+/Volumes/My Passport/Projects/idoc-iterminal/docs-web-common/src/main/java/com/sismics/util/filter/RequestContextFilter.java
+/Volumes/My Passport/Projects/idoc-iterminal/docs-web-common/src/main/java/com/sismics/rest/exception/ForbiddenClientException.java
+/Volumes/My Passport/Projects/idoc-iterminal/docs-web-common/src/main/java/com/sismics/util/filter/HeaderBasedSecurityFilter.java
